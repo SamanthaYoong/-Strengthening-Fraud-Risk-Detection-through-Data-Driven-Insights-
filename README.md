@@ -1,6 +1,6 @@
 #  Case Study: Strengthening Fraud Risk Detection through Data-Driven Insights  
 
-## 📌 Context  
+## 🎯 Context  
 Digital platforms face increasing fraud threats, from fake registrations to transaction manipulation. For a fintech company, the challenge was not just detecting fraud but ensuring **clean, reliable datasets** to train fraud detection models and improve decision-making.  
 
 As a **Data Analyst (Fraud Risk)**, my role was to design a framework to:  
